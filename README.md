@@ -1,3 +1,29 @@
+# ai-for-grant-writing
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A curated list of resources for using LLMs to develop more competitive grant applications.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 LLM 撰写更具竞争力基金申请书的资源清单。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # AI for Grant Writing
 
 ![logo](./banner.png)
